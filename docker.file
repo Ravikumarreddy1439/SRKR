@@ -1,0 +1,3 @@
+FROM ubuntu
+MAINTAINER "ravi"
+RUN touch abc
